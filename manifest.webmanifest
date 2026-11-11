@@ -1,0 +1,10 @@
+{
+  "name": "A.R.C.H.O.N.",
+  "short_name": "ARCHON",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06111e",
+  "theme_color": "#071321",
+  "description": "Assistente pessoal ARCHON"
+}
